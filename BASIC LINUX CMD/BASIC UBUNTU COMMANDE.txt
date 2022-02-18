@@ -1,0 +1,25 @@
+1. Sudo :(SuperUser DO) Run command as an administrator
+2. sudo apt-get upgrade
+3. sudo apt-get update
+4. sudo apt-get install
+5. sudo apt-get remove (it removes the software but not it's configuration)
+6. dpkg --list( in case you want to remove package and you don't know the exact name)
+=======================================================================================
+ALL THE ABOVE COMMAND YOU HAVE TO ADD THE PACKAGE NAME IF YOU DON'T KNOW IT WRITE SIMPLE NAME AND CLICK ON TAB
+
+7. sudo apt-get purge (it removes the software completely plus it's configurations)
+8. sudo apt-get autoremove (remove unused libralires)
+9. ls : list all files in a working directory
+10. cd /  – Takes you to the root directory.
+11. cd .. – Takes you up one directory level.
+12. cd –  – Takes you to the previous directory.
+13. cp (copy) 
+14. mv (move)
+15.rmdir (“remove directory”) – Removes an empty directory.
+16.rm -r (“remove recursively”) – Removes a directory along with its content.
+17.mkdir (make directory)
+18.history command displays all of your previous commands 
+19. Df  (display filesystem)
+20.free – Displays the amount of free space available on the system.
+21.uname -a – Provides a wide range of basic information about the system.
+22. top – Displays the processes using the most system resources at any given time. “q” can be used to exit.
